@@ -1,12 +1,11 @@
 <!--suppress HtmlDeprecatedAttribute -->
-HI WELCOME TO  MY GITHUB PROFILE
+#   HI WELCOME TO  MY GITHUB PROFILE #
 # Hey👋, This is Kaushal Kumar  #
 
 <div>
 <br/>
 - 🔭 Full-stack developer with 2+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
-- 🌱 Proficient in front-end technologies like React, Angular, as well as back-end technologies like Spring Boot, Node.js, java and PHP<br/>
-- 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
+- 🌱 Proficient in front-end technologies like React as well as back-end technologies like Spring Boot, , java and PHP<br/>
 - 😍 Developed some AI Apps and integrated with web and ChatGPT.<br/>
 - 😉 Deep knowledge about deep learning, Generative AI, recommendation system and reinforcement system.</br>
 
@@ -14,12 +13,12 @@ HI WELCOME TO  MY GITHUB PROFILE
 
 # Main Skills #
 
-<a href="https://developer.android.com/reference"><img src="./assets/android-plain.svg" alt="android" height="100" title="Android reference"></a>
+
 <a href="https://reactnative.dev/docs/getting-started"><img src="./assets/react-native.svg" alt="react-native" height="100" title="React-Native documentation"></a>
 <a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
 <a href="https://angular.io/start"><img src="./assets/angular.svg" alt="angular" height="100" title="Angular documentation"></a>
 <a href="https://nodejs.org/en/docs/guides"><img src="./assets/node.svg" alt="node" height="100" title="Node documentation"></a>
-<a href="https://www.php.net/manual/en/index.php"><img src="./assets/php.png" alt="php" height="100" title="PHP documentation"></a>
+
 <a href="https://docs.oracle.com/en/java/"><img src="./assets/java-original.svg" alt="java" height="100" title="Java documentation"></a>
 <a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
 
@@ -31,7 +30,7 @@ HI WELCOME TO  MY GITHUB PROFILE
   <>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
+      <br>React js
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -51,14 +50,14 @@ HI WELCOME TO  MY GITHUB PROFILE
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
       <br>TypeScript
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>AWS
     </td>  
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
       <br>PHP
-    </td>
+    </td> -->
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
@@ -112,23 +111,22 @@ HI WELCOME TO  MY GITHUB PROFILE
 
 <p align="left"> <a href="https://www.linkedin.com/in/Kaushal Kumar/" target="blank"><img src="https://img.shields.io/twitter/follow/Kaushal Kumar?logo=linkedin&style=for-the-badge" alt="Kaushal Kumar" /></a> </p>
 
-- 🔭 I’m currently working on **Online tutorial System**
+- 🔭 I’m currently working on **Online Voting System**
 
-- 🌱 I’m currently learning **Flutter, Devops**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **Real Estate website project**
 
-- 🤝 I’m looking for help with **Online Tutorial System**
+- 🤝 I’m looking for help with **Online Voting System**
 
-- 👨‍💻 All of my projects are available at [madhavsportfolio.netlify.app](madhavsportfolio.netlify.app)
-
+- 👨‍💻 
 - 📝 I regularly write articles on [realadityaop.blogspot.com](realadityaop.blogspot.com)
 
 - 💬 Ask me about **React js, Node js**
 
-- 📫 How to reach me **Kaushal Kumar97@gmail.com**
+- 📫 How to reach me **210101120208@cutm.ac.in@gmail.com**
 
-- 📄 Know about my experiences [madhavsportfolio.netlify.app](madhavsportfolio.netlify.app)
+- 📄 
 
 - ⚡ Fun fact **I Loves to code**
 
@@ -139,18 +137,18 @@ HI WELCOME TO  MY GITHUB PROFILE
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/Kaushal Kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Kaushal Kumar" height="30" width="40" /></a>
-<a href="https://twitter.com/Kaushal Kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kaushal Kumar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Kaushal Kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kaushal Kumar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/Kaushal Kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Kaushal Kumar" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/Kaushal Kumar" target="blank"><img align="center" src="https://www.linkedin.com/in/kaushal-kumar-b713012aa/" alt="Kaushal Kumar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/Kaushal Kumar" target="blank"><img align="center" src="https://github.com/KAUS156" alt="Kaushal Kumar" height="30" width="40" /></a>
 <a href="https://kaggle.com/Kaushal Kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaushal Kumar" height="30" width="40" /></a>
 <a href="https://fb.com/Kaushal Kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kaushal Kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/Kaushal Kumar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Kaushal Kumar_" height="30" width="40" /></a>
+<a href="https://instagram.com/Kaushal Kumar_" target="blank"><img align="center" src="" alt="Kaushal Kumar_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/Kaushal Kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Kaushal Kumar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/Kaushal Kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Kaushal Kumar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Kaushal Kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Kaushal Kumar" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Kaushal Kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Kaushal Kumar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Kaushal Kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Kaushal Kumar" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/Kaushal Kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="Kaushal Kumar" height="30" width="40" /></a>
+
 <a href="https://auth.geeksforgeeks.org/user/Kaushal Kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Kaushal Kumar" height="30" width="40" /></a>
 <a href="https://discord.gg/Kaushal Kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kaushal Kumar" height="30" width="40" /></a>
 <a href="/Kaushal Kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Kaushal Kumar" height="30" width="40" /></a>
